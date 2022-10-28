@@ -1,0 +1,15 @@
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\obj\Debug\net6.0\math-get-methods.csproj.AssemblyReference.cache
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\obj\Debug\net6.0\math-get-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\obj\Debug\net6.0\math-get-methods.AssemblyInfoInputs.cache
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\obj\Debug\net6.0\math-get-methods.AssemblyInfo.cs
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\obj\Debug\net6.0\math-get-methods.csproj.CoreCompileInputs.cache
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\bin\Debug\net6.0\math-get-methods.exe
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\bin\Debug\net6.0\math-get-methods.deps.json
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\bin\Debug\net6.0\math-get-methods.runtimeconfig.json
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\bin\Debug\net6.0\math-get-methods.dll
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\bin\Debug\net6.0\ref\math-get-methods.dll
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\bin\Debug\net6.0\math-get-methods.pdb
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\obj\Debug\net6.0\math-get-methods.dll
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\obj\Debug\net6.0\ref\math-get-methods.dll
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\obj\Debug\net6.0\math-get-methods.pdb
+C:\Users\vivian.zitek\Programming\cSharp\customClasses\math-get-methods\obj\Debug\net6.0\math-get-methods.genruntimeconfig.cache
