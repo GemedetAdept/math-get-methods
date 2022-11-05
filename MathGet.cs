@@ -15,4 +15,16 @@ public class MathGet {
 
 		return degrees;
 	}
+
+	public static (double, double) DegreesToCoords(double degrees) {
+
+		(double coordX, double coordY) coordinate = (0.0, 0.0);
+
+		double radians = DegreesToRadians(degrees);
+
+		coordinate.coordX = Math.Cos(radians);
+		coordinate.coordY = Math.Sin(radians);
+
+		return coordinate;
+	}
 }

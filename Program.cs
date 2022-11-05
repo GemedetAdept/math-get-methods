@@ -1,7 +1,5 @@
-﻿double degrees = 60.0;
-Console.WriteLine($"Degrees = {degrees}");
-double radians = MathGet.DegreesToRadians(degrees);
-Console.WriteLine($"Radians = {radians}");
-degrees = MathGet.RadiansToDegrees(radians);
-Console.WriteLine($"Degrees = {degrees}");
+﻿double angle = 45.0;
+(double x, double y) coords = (0.0, 0.0);
 
+coords = MathGet.DegreesToCoords(angle);
+Console.WriteLine(coords);
