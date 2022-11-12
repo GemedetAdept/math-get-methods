@@ -27,4 +27,21 @@ public class MathGet {
 
 		return coordinate;
 	}
+
+	public static double LineLength2D(double[] a, double[] b) {
+
+		double length = 0.0;
+		
+		if (a.Length == b.Length) {
+
+			var deltaVals = new double[a.Length+1];
+
+			for (int i=0; i < a.Length; i++)
+				deltaVals[i] = Math.Pow((b[i] - a[i]), 2);
+
+			length = Math.Sqrt(deltaVals[0] + deltaVals[1]);
+		}
+
+		return length;
+	}
 }
