@@ -1,14 +1,25 @@
 ﻿double[] pointA = new double[2];
 double[] pointB = new double[2];
 
-double[] inputPoint(double[] point, string pointName) {
+double[] inputPoint(double[] point, string ordinal) {
 
-	Console.WriteLine("Input coordinates of first point; '(x, y)'");
+	Console.WriteLine($"Input coordinates of {ordinal} point; '(x, y)'");
 	Console.Write("> ");
 	string userInput = Console.ReadLine();
-	string[] splitInput = inputX.Replace("(", "").Replace(")", "").Split(", ");
+	string[] splitInput = userInput.Replace("(", "").Replace(")", "").Split(", ");
 
-	point = splitInputX.Select(a => Convert.ToDouble(a)).ToArray();
+	for (int i=0; i < splitInput.Length; i++) {
+
+		point[i] = Double.Parse(splitInput[i]);
+	}
+
+	Console.WriteLine("");
+
+	return point;
 }
 
-Console.WriteLine(pointA[0] + ", " + pointA[1]);
+inputPoint(pointA, "first");
+inputPoint(pointB, "second");
+
+Console.WriteLine(MathGet.LineLength2D(pointA, pointB));
+// Console.WriteLine($"({pointA[0]}, {pointA[1]}), ({pointB[0]}, {pointB[1]})");
